@@ -1,0 +1,1 @@
+export default __webpack_public_path__ + "build/Loading_Indicator_double_32.svg";
